@@ -1,0 +1,23 @@
+{
+    "pinned": [
+        "hi\/Claude-Friendly Greeting (4) agak meh",
+        "4\/2024-12-27---13-54_IOT ROS 2"
+    ],
+    "collapsed": [],
+    "tags": {
+        "Claude-Friendly_Greeting_(4)": [],
+        "hi3\/Claude-Friendly_Greeting_(4)_agak_meh": [
+            "hola3"
+        ],
+        "hi3\/Claude-Friendly_Greeting_(4)_agak_meh_-_Copy": [
+            "ffffff"
+        ],
+        "hola_space\/Claude-Friendly_Greeting_(4)_agak_meh": [
+            "juga"
+        ]
+    },
+    "names": {
+        "2024-12-16---05-06_Struktur Data": "2024-12-16---05-06_Struktur Data 2",
+        "2024-12-16---05-06_Struktur Data 2": "2024-12-16---05-06_Struktur Data 22"
+    }
+}

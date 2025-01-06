@@ -1,0 +1,102 @@
+[2024-12-30 17:35:58] Starting directory scan: C:\xampp\htdocs\claude/input
+[2024-12-30 17:35:58] Scanning dir: C:\xampp\htdocs\claude/input with prefix: 
+[2024-12-30 17:35:58] Found files: Array
+(
+    [0] => .
+    [1] => ..
+    [2] => Claude-Friendly Greeting (4) agak meh.md
+    [3] => Claude-Friendly Greeting (4).md
+    [4] => hi
+    [5] => hi2
+    [6] => hi2 iyup
+    [7] => hola space
+)
+
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] ID: Claude-Friendly\ Greeting\ (4)\ agak\ meh.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4).md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\Claude-Friendly Greeting (4).md
+[2024-12-30 17:35:58] ID: Claude-Friendly\ Greeting\ (4).md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: hi
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi
+[2024-12-30 17:35:58] ID: hi
+[2024-12-30 17:35:58] Is directory
+[2024-12-30 17:35:58] Scanning dir: C:\xampp\htdocs\claude/input\hi with prefix: hi/
+[2024-12-30 17:35:58] Found files: Array
+(
+    [0] => .
+    [1] => ..
+    [2] => Claude-Friendly Greeting (4) agak meh - Copy.md
+    [3] => Claude-Friendly Greeting (4) agak meh.md
+)
+
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi\Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] ID: hi/Claude-Friendly\ Greeting\ (4)\ agak\ meh\ -\ Copy.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi\Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] ID: hi/Claude-Friendly\ Greeting\ (4)\ agak\ meh.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: hi2
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2
+[2024-12-30 17:35:58] ID: hi2
+[2024-12-30 17:35:58] Is directory
+[2024-12-30 17:35:58] Scanning dir: C:\xampp\htdocs\claude/input\hi2 with prefix: hi2/
+[2024-12-30 17:35:58] Found files: Array
+(
+    [0] => .
+    [1] => ..
+    [2] => Claude-Friendly Greeting (4) agak meh - Copy.md
+    [3] => Claude-Friendly Greeting (4) agak meh.md
+)
+
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2\Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] ID: hi2/Claude-Friendly\ Greeting\ (4)\ agak\ meh\ -\ Copy.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2\Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] ID: hi2/Claude-Friendly\ Greeting\ (4)\ agak\ meh.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: hi2 iyup
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2 iyup
+[2024-12-30 17:35:58] ID: hi2\ iyup
+[2024-12-30 17:35:58] Is directory
+[2024-12-30 17:35:58] Scanning dir: C:\xampp\htdocs\claude/input\hi2 iyup with prefix: hi2\ iyup/
+[2024-12-30 17:35:58] Found files: Array
+(
+    [0] => .
+    [1] => ..
+    [2] => Claude-Friendly Greeting (4) agak meh - Copy.md
+    [3] => Claude-Friendly Greeting (4) agak meh.md
+)
+
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2 iyup\Claude-Friendly Greeting (4) agak meh - Copy.md
+[2024-12-30 17:35:58] ID: hi2\ iyup/Claude-Friendly\ Greeting\ (4)\ agak\ meh\ -\ Copy.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hi2 iyup\Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] ID: hi2\ iyup/Claude-Friendly\ Greeting\ (4)\ agak\ meh.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Processing: hola space
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hola space
+[2024-12-30 17:35:58] ID: hola\ space
+[2024-12-30 17:35:58] Is directory
+[2024-12-30 17:35:58] Scanning dir: C:\xampp\htdocs\claude/input\hola space with prefix: hola\ space/
+[2024-12-30 17:35:58] Found files: Array
+(
+    [0] => .
+    [1] => ..
+    [2] => Claude-Friendly Greeting (4) agak meh.md
+)
+
+[2024-12-30 17:35:58] Processing: Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] Path: C:\xampp\htdocs\claude/input\hola space\Claude-Friendly Greeting (4) agak meh.md
+[2024-12-30 17:35:58] ID: hola\ space/Claude-Friendly\ Greeting\ (4)\ agak\ meh.md
+[2024-12-30 17:35:58] Is markdown file
+[2024-12-30 17:35:58] Completed scan

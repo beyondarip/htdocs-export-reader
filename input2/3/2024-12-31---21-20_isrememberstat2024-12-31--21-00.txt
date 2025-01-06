@@ -1,0 +1,54 @@
+./ChatGPT-Bahaya_Perintah_Taskkill.md
+./ChatGPT-Bahaya_Perintah_Taskkill.md___2024-12-07_20-25-22___8.0KB
+./ChatGPT-Customizing_Desktop_Shortcuts.md
+./ChatGPT-Customizing_Desktop_Shortcuts.md___2024-12-07_21-07-47___64.5KB
+./ChatGPT-Hai_Apa_Kabar.md
+./ChatGPT-Hai_Apa_Kabar.md___2024-12-12_09-46-41___24.9KB
+./ChatGPT-Laporan_Teori_4_Web.md
+./ChatGPT-Laporan_Teori_4_Web.md___2024-12-06_20-13-30___27.2KB
+./ChatGPT-Pembuatan_KRS_Mahasiswa_PHP.md
+./ChatGPT-Pembuatan_KRS_Mahasiswa_PHP.md___2024-12-06_20-13-15___16.4KB
+./ChatGPT-Tugas_Nested_Loop.md
+./ChatGPT-Tugas_Nested_Loop.md___2024-12-08_15-13-16___4.1KB
+./ChatGPT-Virtual_Desktop_Shortcuts (1).md
+./ChatGPT-Virtual_Desktop_Shortcuts (1).md___2024-12-07_21-07-57___8.4KB
+./Claude-Friendly Greeting (1).md
+./Claude-Friendly Greeting (1).md___2024-12-07_20-29-36___4.6KB
+./Claude-Friendly Greeting (2).md
+./Claude-Friendly Greeting (2).md___2024-12-14_17-03-35___5.8KB
+./Claude-Friendly Greeting.md
+./Claude-Friendly Greeting.md___2024-12-07_20-25-29___6.4KB
+./Claude-How to Use a pH Sensor.md
+./Claude-How to Use a pH Sensor.md___2024-12-06_20-56-20___3.0KB
+./Claude-PyQT5 App for Customizable Water Bottle.md
+./Claude-PyQT5 App for Customizable Water Bottle.md___2024-12-12_19-53-52___67.4KB
+./Claude-PyQT5 App for Customizable Water Bottle.txt
+./Claude-PyQT5 App for Customizable Water Bottle.txt___2024-12-12_19-53-58___66.6KB
+./2024-12-06---20-13_ChatGPT-Laporan_Teori_4_Web.md
+./2024-12-06---20-13_ChatGPT-Laporan_Teori_4_Web.md___2024-12-06_20-13-30___27.2KB
+./2024-12-06---20-13_ChatGPT-Pembuatan_KRS_Mahasiswa_PHP.md
+./2024-12-06---20-13_ChatGPT-Pembuatan_KRS_Mahasiswa_PHP.md___2024-12-06_20-13-15___16.4KB
+./2024-12-06---20-56_Claude-How to Use a pH Sensor.md
+./2024-12-06---20-56_Claude-How to Use a pH Sensor.md___2024-12-06_20-56-20___3.0KB
+./2024-12-07---20-25_ChatGPT-Bahaya_Perintah_Taskkill.md
+./2024-12-07---20-25_ChatGPT-Bahaya_Perintah_Taskkill.md___2024-12-07_20-25-22___8.0KB
+./2024-12-07---20-25_Claude-Friendly Greeting.md
+./2024-12-07---20-25_Claude-Friendly Greeting.md___2024-12-07_20-25-29___6.4KB
+./2024-12-07---20-29_Claude-Friendly Greeting (1).md
+./2024-12-07---20-29_Claude-Friendly Greeting (1).md___2024-12-07_20-29-36___4.6KB
+./2024-12-07---21-07_ChatGPT-Customizing_Desktop_Shortcuts.md
+./2024-12-07---21-07_ChatGPT-Customizing_Desktop_Shortcuts.md___2024-12-07_21-07-47___64.5KB
+./2024-12-07---21-07_ChatGPT-Virtual_Desktop_Shortcuts (1).md
+./2024-12-07---21-07_ChatGPT-Virtual_Desktop_Shortcuts (1).md___2024-12-07_21-07-57___8.4KB
+./2024-12-08---15-13_ChatGPT-Tugas_Nested_Loop.md
+./2024-12-08---15-13_ChatGPT-Tugas_Nested_Loop.md___2024-12-08_15-13-16___4.1KB
+./2024-12-12---09-46_ChatGPT-Hai_Apa_Kabar.md
+./2024-12-12---09-46_ChatGPT-Hai_Apa_Kabar.md___2024-12-12_09-46-41___24.9KB
+./2024-12-12---19-53_Claude-PyQT5 App for Customizable Water Bottle.md
+./2024-12-12---19-53_Claude-PyQT5 App for Customizable Water Bottle.md___2024-12-12_19-53-52___67.4KB
+./2024-12-12---19-53_Claude-PyQT5 App for Customizable Water Bottle.txt
+./2024-12-12---19-53_Claude-PyQT5 App for Customizable Water Bottle.txt___2024-12-12_19-53-58___66.6KB
+./2024-12-14---17-03_Claude-Friendly Greeting (2).md
+./2024-12-14---17-03_Claude-Friendly Greeting (2).md___2024-12-14_17-03-35___5.8KB
+./isrememberstat2024-12-31--21-00.txt
+./isrememberstat2024-12-31--21-00.txt___2024-12-31_21-20-16___3.2KB

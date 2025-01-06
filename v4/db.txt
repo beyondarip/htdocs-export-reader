@@ -1,0 +1,7 @@
+{
+    "pinned": [
+        "hi\/Claude-Friendly Greeting (4) agak meh"
+    ],
+    "collapsed": [],
+    "tags": []
+}

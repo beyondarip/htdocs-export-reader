@@ -1,0 +1,66 @@
+./ChatGPT-Tugas Pengembangan Aplikasi CRUD (1).md
+./ChatGPT-Tugas Pengembangan Aplikasi CRUD (1).md___2024-12-27_23-06-07___71.5KB
+./ChatGPT-Tugas Pengembangan Aplikasi CRUD 0.md
+./ChatGPT-Tugas Pengembangan Aplikasi CRUD 0.md___2024-12-27_20-16-13___88.9KB
+./Claude-Expanding Water Vending Machine Backend.md
+./Claude-Expanding Water Vending Machine Backend.md___2024-12-29_06-06-33___13.7KB
+./Claude-Fixing Oversized Background Image (1).md
+./Claude-Fixing Oversized Background Image (1).md___2024-12-31_18-58-17___16.8KB
+./Claude-Friendly Greeting (1).md
+./Claude-Friendly Greeting (1).md___2024-12-27_13-54-10___4.2KB
+./Claude-Friendly Greeting (10).md
+./Claude-Friendly Greeting (10).md___2024-12-30_21-15-22___8.1KB
+./Claude-Friendly Greeting (11).md
+./Claude-Friendly Greeting (11).md___2024-12-30_23-24-47___2.3KB
+./Claude-Friendly Greeting (12).md
+./Claude-Friendly Greeting (12).md___2024-12-31_06-44-12___7.7KB
+./Claude-Friendly Greeting (2).md
+./Claude-Friendly Greeting (2).md___2024-12-27_13-54-21___352.0B
+./Claude-Friendly Greeting (3).md
+./Claude-Friendly Greeting (3).md___2024-12-28_03-22-23___31.5KB
+./Claude-Friendly Greeting (4) agak meh.md
+./Claude-Friendly Greeting (4) agak meh.md___2024-12-28_03-46-50___22.4KB
+./Claude-Friendly Greeting (4).md
+./Claude-Friendly Greeting (4).md___2024-12-28_04-43-51___37.1KB
+./Claude-Friendly Greeting (5).md
+./Claude-Friendly Greeting (5).md___2024-12-29_00-23-19___13.7KB
+./Claude-Friendly Greeting (6).md
+./Claude-Friendly Greeting (6).md___2024-12-29_22-06-16___27.4KB
+./Claude-Friendly Greeting (7).md
+./Claude-Friendly Greeting (7).md___2024-12-30_03-04-15___6.2KB
+./Claude-Friendly Greeting (8).md
+./Claude-Friendly Greeting (8).md___2024-12-30_04-27-24___35.9KB
+./Claude-Friendly Greeting (9).md
+./Claude-Friendly Greeting (9).md___2024-12-30_21-14-52___2.4KB
+./Claude-Friendly Greeting.md
+./Claude-Friendly Greeting.md___2024-12-27_13-20-15___3.8KB
+./Claude-Greeting and Assistance Offered.md
+./Claude-Greeting and Assistance Offered.md___2024-12-28_22-56-43___3.2KB
+./Claude-Greeting and Assistance.json
+./Claude-Greeting and Assistance.json___2024-12-30_21-16-13___37.8KB
+./Claude-Greeting and Assistance.md
+./Claude-Greeting and Assistance.md___2024-12-30_21-16-06___38.0KB
+./Claude-Innovative Web Project Ideas for Campus Event.md
+./Claude-Innovative Web Project Ideas for Campus Event.md___2024-12-29_23-08-36___6.5KB
+./Claude-Integrating Midtrans Payment Gateway with Raspberry Pi Water Vending Machine (1).md
+./Claude-Integrating Midtrans Payment Gateway with Raspberry Pi Water Vending Machine (1).md___2024-12-30_21-26-10___76.5KB
+./Claude-Lightweight Yet Powerful Chat App Features.md
+./Claude-Lightweight Yet Powerful Chat App Features.md___2024-12-30_23-25-15___5.6KB
+./Claude-Optimizing Lagging Video Playback with Multithreading.md
+./Claude-Optimizing Lagging Video Playback with Multithreading.md___2024-12-28_05-13-08___5.9KB
+./Claude-Raspberry Pi QR Code Display Issue.md
+./Claude-Raspberry Pi QR Code Display Issue.md___2024-12-30_21-15-07___2.9KB
+./Claude-Raspberry Pi Water Vending Machine Automation.md
+./Claude-Raspberry Pi Water Vending Machine Automation.md___2024-12-29_06-06-20___10.9KB
+./Claude-Raspberry Pi Water Vending Machine Upgrade.md
+./Claude-Raspberry Pi Water Vending Machine Upgrade.md___2024-12-29_06-06-06___1.4KB
+./Claude-Recursive Folder Search Issue.md
+./Claude-Recursive Folder Search Issue.md___2024-12-31_18-57-07___16.5KB
+./Claude-Simple Filling Animation for Raspberry Pi.md
+./Claude-Simple Filling Animation for Raspberry Pi.md___2024-12-28_18-50-47___3.4KB
+./Claude-Test Assistance Request.md
+./Claude-Test Assistance Request.md___2024-12-29_23-52-51___20.3KB
+./Claude-Vending Machine GUI Code Review.md
+./Claude-Vending Machine GUI Code Review.md___2024-12-28_18-49-12___33.7KB
+./Claude-💬 jadi karena Di Raspberry Pi (L.md
+./Claude-💬 jadi karena Di Raspberry Pi (L.md___2024-12-30_21-15-40___2.1KB

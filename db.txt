@@ -1,0 +1,18 @@
+{
+    "pinned": [
+        "hi\/Claude-Friendly Greeting (4) agak meh"
+    ],
+    "collapsed": [],
+    "tags": {
+        "Claude-Friendly_Greeting_(4)": [],
+        "hi3\/Claude-Friendly_Greeting_(4)_agak_meh": [
+            "hola3"
+        ],
+        "hi3\/Claude-Friendly_Greeting_(4)_agak_meh_-_Copy": [
+            "ffffff"
+        ],
+        "hola_space\/Claude-Friendly_Greeting_(4)_agak_meh": [
+            "juga"
+        ]
+    }
+}
